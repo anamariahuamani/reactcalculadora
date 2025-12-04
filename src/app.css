@@ -5,7 +5,7 @@
   padding: 20px;
   background: wheat;
   border-radius: 12px;
-  box-shadow: 0 0 15px rgba(0,0,0,0.3);
+  box-shadow: wheat 14px;
 }
 
 /* Pantalla */
@@ -49,18 +49,18 @@ button:hover {
 /* Botón igual */
 button.equal {
   grid-column: span 2;
-  background: #1a73e8;
+  background: mediumaquamarine;
 }
 
 button.equal:hover {
-  background: #1667c1;
+  background: mediumaquamarine;
 }
 
 /* Botón limpiar */
 button.clear {
-  background: #e53935;
+  background: mediumorchid;
 }
 
 button.clear:hover {
-  background: #c62828;
+  background: mediumorchid;
 }

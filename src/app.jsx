@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Calculadora from './componentes/Calculadora'
+import Calculadora from './componentes.calculadora'
 
 function App() {
   return (
