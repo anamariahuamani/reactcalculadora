@@ -7,13 +7,13 @@ body {
   width: 260px;
   margin: 50px auto;
   padding: 20px;
-  background: wheat;
+  background: white;
   border-radius: 10px;
-  box-shadow: 0 0 10px wheat;
+  box-shadow: 0 0 10px #ccc;
 }
 
 .display {
-  background:wheat;
+  background: #222;
   color: #0f0;
   padding: 20px;
   border-radius: 5px;
@@ -38,11 +38,11 @@ body {
 }
 
 .op {
-  background: mediumorchid;
+  background: orange;
 }
 
 .clear {
-  background:mediumorchid;
+  background:blueviolet;
   color:aqua;
 }
 
