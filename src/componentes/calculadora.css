@@ -1,5 +1,5 @@
 body {
-  background: #f0f0f0;
+  background:wheat;
   font-family: Arial, sans-serif;
 }
 
@@ -7,21 +7,21 @@ body {
   width: 260px;
   margin: 50px auto;
   padding: 20px;
-  background: white;
+  background:wheat;
   border-radius: 10px;
   box-shadow: 0 0 10px #ccc;
-  align-items: center;
+  
 }
 
 .display {
-  background: #222;
-  color: #0f0;
+  background:wheat;
+  color: rgb(20, 187, 20);
   padding: 20px;
   border-radius: 5px;
   font-size: 28px;
   text-align: right;
   margin-bottom: 10px;
-  align-items: center;
+  
 }
 
 .buttons button {
@@ -33,7 +33,7 @@ body {
   border: none;
   border-radius: 5px;
   transition: 0.2s;
-  align-items: center;
+  
 }
 
 .buttons button:hover {
@@ -45,7 +45,7 @@ body {
 }
 
 .clear {
-  background: red;
+  background: mediumorchid;
   color: white;
 }
 
